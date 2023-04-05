@@ -18,4 +18,4 @@ Problem that this solves
 
 
 
-<img src="http://a.abcnews.go.com/images/US/gty_leader_kim_jong_il_ll_111221_vblog.jpg" alt="Girl in a jacket" >
+<img src="https://user-images.githubusercontent.com/122634321/230178845-42797003-27d1-4809-bfb7-dda71ea46396.png)](https://cdn.vox-cdn.com/thumbor/eL-o-JJl3eJ9WP5M1E1vQZl-P3U=/0x0:900x500/1820x1213/filters:focal(378x237:522x381):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58251699/Latest_Propaganda_1.0.png" alt="Girl in a jacket" >
