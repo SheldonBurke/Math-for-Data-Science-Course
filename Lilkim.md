@@ -10,21 +10,31 @@ This tongue in cheek project was created by Sheldon Burke to train Alexnet using
 
 *Kim Jong IL
 
-Aka the Dear leader. Former leader of the "Best Korea."
+Aka the Dear leaderand Former leader of the "Best Korea."
 
 *Kim Jong Un
+
+"The Great Successor" and "Supreme Leader." Son of Kim Jong IL and bff of Denis Rodman and Donald Trump. (It's wild to even type that sentence).
 
 
 Tools
 
 *Torchvision
 
+Used for manipulation of images in dataset.
+
 *Google Colab 
+
+A free software through Google that uses Python.
 
 *Google Drive
 
+Cloud storage from Google
+
+
 Problem that this solves
 
+26 million people live in North Korea at the time of this project. I can assure you that confusing the Dear Leader with the Great Leader is a matter of life and death. The stakes do not get any higher than that. 
 
 
 
