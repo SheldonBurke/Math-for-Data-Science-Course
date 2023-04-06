@@ -1,6 +1,6 @@
 Introduction
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Kim_Jong-il_in_North_Korean_propaganda_%286075328850%29.jpg" alt="The Glorius Leader" > 
+<img src="https://videolibrarian.com/downloads/4886/download/office%2039.webp?cb=0ed43606163ff94b7579b6ee44c62616&w=1280&h=720" alt="The Glorius Leader" > 
 
 
 This tongue in cheek project was created by Sheldon Burke to train Alexnet using Colab to discern between Kim Jong Un and Kim Jong IL.
