@@ -35,7 +35,7 @@ Dataset
 
 Training Data
 
-<img src="https://www.canva.com/design/DAFfbdF6eAM/ZD3qQuYTnDrbxfY8y3K2Jw/edit?utm_content=DAFfbdF6eAM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Girl in a jacket" width="244" height="244">
+<img src="https://www.canva.com/design/DAFfbdF6eAM/view" alt="Girl in a jacket" width="244" height="244">
 
 
 
