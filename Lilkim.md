@@ -32,9 +32,7 @@
 
 <h3 align="center"> Dataset </h3>
 
-
-Training Data
-
+<h4 align="center"> Training dataset </h4>
 ![image](https://user-images.githubusercontent.com/122634321/230618065-32cd14c0-6f83-48dc-839c-5d610b691bdb.png)
 
 
