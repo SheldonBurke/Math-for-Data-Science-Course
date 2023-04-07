@@ -31,6 +31,13 @@ A free software through Google that uses Python.
 
 Cloud storage from Google
 
+Dataset
+
+Training Data
+
+<img src="https://drive.google.com/file/d/1rqC0WXjPT0yb5lA0IA2ksOdwTGHS1NEN/view?usp=share_link" alt="Girl in a jacket" width="244" height="244">
+
+
 
 Problem that this solves
 
