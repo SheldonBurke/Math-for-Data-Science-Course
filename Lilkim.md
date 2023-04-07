@@ -37,7 +37,7 @@ Training Data
 
 <img src="https://www.canva.com/design/DAFfbdF6eAM/view"
    alt="Short Image Description"
-   style="float: left; margin-right: 10px;" 
+   style="float: center; margin-right: 10px;" 
    /> 
 
 Problem that this solves
