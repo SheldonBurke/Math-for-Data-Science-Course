@@ -8,7 +8,7 @@
 
  <h3 align="center"> Introduction </h3>
 
-<p align="center"> This tongue in cheek project was created by Sheldon Burke to train Alexnet using Colab to discern between Kim Jong Un and Kim Jong IL.
+<p align="center"> This tongue in cheek project was created by Sheldon Burke to train Alexnet using Colab to discern between Kim Jong Un and Kim Jong IL. As a former history major and now a current student in Data Science and Analytics, I want to marry my love of history with my newfound love of Artifical Intelligence. 
  </p>
  
  <h3 align="center"> Context </h3>
@@ -56,6 +56,10 @@ Still, when we placed the photo below into our AlexNet model, this model accurat
 
 The model does require some work however, as we have described above, for example it mistakes this photo of Kim Jong Il for Kim Jong UN. Given Kim Jong Il's fashion, his proclivity to wear army green and us only having one image of Kim Jong Un wearing green, it is hard for my fleshy, human mind to see how it came to this conclusion, otherwise than perhaps face proportion.  
 
+![image](https://user-images.githubusercontent.com/122634321/230623632-52e74c02-8ae8-4055-8197-d9ebcd404970.png)
+![image](https://user-images.githubusercontent.com/122634321/230623732-9ee87217-82b0-4642-bbd1-d76fa51e32a6.png)
+
+Still, even so, I am very happy with the work so far and may work in my spare time to improve this model for the fun of it all. Though the model is not nearly as accurate as I would like, I am as happy as a North Korean newscaster reporting the launch of a Hwasong-17 missle test to stunt on imperialist swines who are permenant enemies of the "Democratic" People's Republic of Korea. 
 
 <h1 align="center"> The END</h1>
 
