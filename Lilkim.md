@@ -35,10 +35,8 @@
 
 Training Data
 
-<img src="https://www.canva.com/design/DAFfbdF6eAM/view"
-   alt="Short Image Description"
-   style="float: center; margin-right: 10px;" 
-   /> 
+![image](https://user-images.githubusercontent.com/122634321/230618065-32cd14c0-6f83-48dc-839c-5d610b691bdb.png)
+
 
 Problem that this solves
 
