@@ -15,7 +15,7 @@
 
 <p align="center">
  
- <b> Sheldon Burke </b> is a Librarian and a current student at Florida Atlantic University pursuring his second bachelors in Data Science and Analytics with a focus on Business Analytics and a certificate in Artifical Intelligence. He can be contacted at Seeshelbytheseashore@gmail.com (unless you are the CIA).
+ <b> Sheldon Burke </b> is a Librarian and a current student pursuring his second bachelors in Data Science and Analytics with a focus on Business Analytics and a certificate in Artifical Intelligence. 
 
  <b> Kim Jong IL </b> Aka the Dear leader and Former leader of the "Best Korea."
 
