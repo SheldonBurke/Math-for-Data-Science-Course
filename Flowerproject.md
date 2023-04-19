@@ -72,7 +72,7 @@ The flowers in the dataset are:
  <img width="904" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233150469-610e97a0-3832-42e2-9b17-c9d41ac0f29a.png">
 
 1. Pansy (correct)
-[![image](https://user-images.githubusercontent.com/122634321/233149270-7510dd3f-99a0-4923-9d54-4154b278d390.png)
+[![image](https://user-images.githubusercontent.com/122634321/233149270-7510dd3f-99a0-4923-9d54-4154b278d390.png=width 250,250)
 ](https://northerngardener.org/wp-content/uploads/2018/04/pansy-pileup-1024x925.jpg)
 
 2. Common Sunflower (correct)
