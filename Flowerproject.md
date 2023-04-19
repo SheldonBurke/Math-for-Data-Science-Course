@@ -79,7 +79,7 @@ The flowers in the dataset are:
 
 2. Common Sunflower (correct)
 
- <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233149270-7510dd3f-99a0-4923-9d54-4154b278d390.png](https://user-images.githubusercontent.com/122634321/233150296-1ef3cb09-fe78-4175-ad0f-372b7f67f728.png">
+ <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233149270-7510dd3f-99a0-4923-9d54-4154b278d390.png">
  
 
 3. Tagetes erecta (correct)
