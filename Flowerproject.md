@@ -62,9 +62,33 @@ The flowers in the dataset are:
   
   <p align="center"> 
  
- So our intial valid results was 78.8% accuracy and it showed. Alexnet had issue telling the difference between the common sunflower and Tagestes erecta and Pansy, but accurately predicted Bougainvillea, Black Flowers and Black eyed Susan.
+ So our intial valid results was 78.8% accuracy and it showed. Alexnet had issue telling the difference between the common sunflower and Tagestes erecta and Pansy, but accurately predicted Bougainvillea, Black Flowers and Black eyed Susan. So a decision was made to update the dataset and add more samples to the folders of these yellow flowers. Intially this raised the accuracy to 81% then 83%, and then maddeningly 78%. Finally, after taking out some common sunflower images that had too much other data in it we were able to get valid to 84% which seems to be the best we can get with twenty five flowers and limited number of flower photos. </p>
  
- So, I decided that it needed more training on these flowers so more flowers were added to the valid and training folders of each flowers. Subsequent training showed promise bumping up to 82% and then 83% with more additions. A fourth test surprisingly went down to 78 again when alot more datasets were added to the common sunflower folders, so we decided to remove some of the dataset that had too much negative space and not enough common sunflower data in the photo.
+<img width="227" alt="Screenshot 2023-04-19 at 12 58 31 PM" src="https://user-images.githubusercontent.com/122634321/233148094-fd4f64ce-5cd2-43ce-8d6f-305decad4a3a.png">
+
+  <p align "center">
+  So here is how our final test did in predictions. 
+  
+ <img width="904" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233150469-610e97a0-3832-42e2-9b17-c9d41ac0f29a.png">
+
+1. Pansy (correct)
+[![image](https://user-images.githubusercontent.com/122634321/233149270-7510dd3f-99a0-4923-9d54-4154b278d390.png)
+](https://northerngardener.org/wp-content/uploads/2018/04/pansy-pileup-1024x925.jpg)
+
+2. Common Sunflower (correct)
+![image](https://user-images.githubusercontent.com/122634321/233150296-1ef3cb09-fe78-4175-ad0f-372b7f67f728.png)
+
+3. Tagetes erecta (correct)
+![image](https://user-images.githubusercontent.com/122634321/233151241-e737191e-2940-4899-a412-9ae0a43fedf6.png)
+
+4. Bougainvillea (incorect)
+Incorrectly guessed firespike
+![image](https://user-images.githubusercontent.com/122634321/233152245-da53dc2e-e5f3-4b08-8eae-0ca4ec1219ca.png)
+
+5. Jatropha bush (correct)
+![image](https://user-images.githubusercontent.com/122634321/233152567-3c8f5829-fff6-4e69-a6e9-6e2dc2c3e738.png)
+
+Overall 4 out of 5 correct. Which matches the valid data. However, it does show that perhaps the issues in accuracy stems from other flowers besides the yellows ones with a dark center which has been my focus. In fairness to Alexnet, our dataset only incldues purple Bougainvillea and our prediction photo has many different colors. 
  
   </p>
   
