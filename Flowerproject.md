@@ -103,7 +103,7 @@ Incorrectly guessed firespike
 
 5. Jatropha bush (correct)
  <p align "center">
-<img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233152567-3c8f5829-fff6-4e69-a6e9-6e2dc2c3e738.png">
+<img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233152567-3c8f5829-fff6-4e69-a6e9-6e2dc2c3e738.png" class="center">
 </p>
 
  <p align "center">
