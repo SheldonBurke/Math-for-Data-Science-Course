@@ -73,39 +73,40 @@ The flowers in the dataset are:
  <img width="904" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233150469-610e97a0-3832-42e2-9b17-c9d41ac0f29a.png"> </p>
 
 1. Pansy (correct)
-  <p align "center">
+   <p align "center">
 
   <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233149270-7510dd3f-99a0-4923-9d54-4154b278d390.png">
 </p>
 
 2. Common Sunflower (correct)
-
  <p align "center">
 
  <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233150296-1ef3cb09-fe78-4175-ad0f-372b7f67f728.png">
-</p> 
+ </p>
 
 3. Tagetes erecta (correct)
 
 <p align "center">
+
  <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233151241-e737191e-2940-4899-a412-9ae0a43fedf6.png">
+ 
 </p>
 
 4. Bougainvillea (incorect)
 
 Incorrectly guessed firespike
-<p align "center">
+
+ <p align "center">
 
  <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233152245-da53dc2e-e5f3-4b08-8eae-0ca4ec1219ca.png">
 </p>
 
 5. Jatropha bush (correct)
-<align "center">
-
+ <p align "center">
 <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233152567-3c8f5829-fff6-4e69-a6e9-6e2dc2c3e738.png">
-
 </p>
 
+ <p align "center">
 Overall 4 out of 5 correct. Which matches the valid data. However, it does show that perhaps the issues in accuracy stems from other flowers besides the yellows ones with a dark center which has been my focus. In fairness to Alexnet, our dataset only incldues purple Bougainvillea and our prediction photo has many different colors. 
  
  </p>
