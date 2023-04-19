@@ -64,7 +64,8 @@ The flowers in the dataset are:
  
  So our intial valid results was 78.8% accuracy and it showed. Alexnet had issue telling the difference between the common sunflower and Tagestes erecta and Pansy, but accurately predicted Bougainvillea, Black Flowers and Black eyed Susan. So a decision was made to update the dataset and add more samples to the folders of these yellow flowers. Intially this raised the accuracy to 81% then 83%, and then maddeningly 78%. Finally, after taking out some common sunflower images that had too much other data in it we were able to get valid to 84% which seems to be the best we can get with twenty five flowers and limited number of flower photos. </p>
  
-<img width="227" alt="Screenshot 2023-04-19 at 12 58 31 PM" src="https://user-images.githubusercontent.com/122634321/233148094-fd4f64ce-5cd2-43ce-8d6f-305decad4a3a.png">
+ <p align "center"> 
+<img width="227" alt="Screenshot 2023-04-19 at 12 58 31 PM" src="https://user-images.githubusercontent.com/122634321/233148094-fd4f64ce-5cd2-43ce-8d6f-305decad4a3a.png"> </p>
 
   <p align "center">
   So here is how our final test did in predictions. 
