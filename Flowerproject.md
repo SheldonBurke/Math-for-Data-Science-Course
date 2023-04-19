@@ -91,7 +91,7 @@ The flowers in the dataset are:
 
 Incorrectly guessed firespike
 
- <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233151241-e737191e-2940-4899-a412-9ae0a43fedf6.png](https://user-images.githubusercontent.com/122634321/233152245-da53dc2e-e5f3-4b08-8eae-0ca4ec1219ca.png">
+ <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233152245-da53dc2e-e5f3-4b08-8eae-0ca4ec1219ca.png">
 
 
 5. Jatropha bush (correct)
