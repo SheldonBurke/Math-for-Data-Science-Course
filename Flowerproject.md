@@ -73,16 +73,14 @@ The flowers in the dataset are:
  <img width="904" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="https://user-images.githubusercontent.com/122634321/233150469-610e97a0-3832-42e2-9b17-c9d41ac0f29a.png">
 
 1. Pansy (correct)
-<div style="width: 60%; height: 60%">
-   
-![image](https://user-images.githubusercontent.com/122634321/233149270-7510dd3f-99a0-4923-9d54-4154b278d390.png)
-</div>
+  
+  <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" src="(https://user-images.githubusercontent.com/122634321/233149270-7510dd3f-99a0-4923-9d54-4154b278d390.png">
 
 
 2. Common Sunflower (correct)
 <div style="width: 60%; height: 60%">
 
-![image](https://user-images.githubusercontent.com/122634321/233150296-1ef3cb09-fe78-4175-ad0f-372b7f67f728.png)
+![image ](https://user-images.githubusercontent.com/122634321/233150296-1ef3cb09-fe78-4175-ad0f-372b7f67f728.png)
 </div>
 
 3. Tagetes erecta (correct)
