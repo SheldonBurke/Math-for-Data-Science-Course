@@ -66,7 +66,8 @@ The flowers in the dataset are:
  
  <p align "center"> 
 <img width="227" alt="Screenshot 2023-04-19 at 12 58 31 PM" src="https://user-images.githubusercontent.com/122634321/233148094-fd4f64ce-5cd2-43ce-8d6f-305decad4a3a.png"> </p>
-
+<center>
+ 
  <p align "center">
   So here is how our final test did in predictions. 
   
@@ -111,4 +112,4 @@ Overall 4 out of 5 correct. Which matches the valid data. However, it does show 
  
  </p>
   
-  
+ </center> 
