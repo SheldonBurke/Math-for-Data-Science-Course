@@ -107,9 +107,7 @@ Incorrectly guessed firespike
 <img width="500" alt="Screenshot 2023-04-19 at 1 14 28 PM" class="center" src="https://user-images.githubusercontent.com/122634321/233152567-3c8f5829-fff6-4e69-a6e9-6e2dc2c3e738.png">
 </p>
 
- <p align "center">
 Overall 4 out of 5 correct. Which matches the valid data. However, it does show that perhaps the issues in accuracy stems from other flowers besides the yellows ones with a dark center which has been my focus. In fairness to Alexnet, our dataset only incldues purple Bougainvillea and our prediction photo has many different colors. 
  
- </p>
   
  </center> 
