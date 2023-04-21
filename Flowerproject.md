@@ -111,3 +111,11 @@ Overall 4 out of 5 correct. Which matches the valid data. However, it does show 
  
   
  </center> 
+
+
+<p align "center"> 
+
+So after some tweaking of the code so that alexnet training only uses the highest percetange in valid instead of the percentage in the last epoch of training, we got a model that was more accurate. 
+
+After this tweak. We increased our model's accuracy. 
+</p>
