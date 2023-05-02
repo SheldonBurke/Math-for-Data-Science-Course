@@ -1,4 +1,4 @@
- <h1 align="center"> Using Alexnet Objection Recognition to Identify Obstacles on sidewalks for Disabled Safety</h1>
+ <h1 align="center"> Using Alexnet Object Recognition to Identify Obstacles on sidewalks for Disabled Safety</h1>
  
  <p align="center">
  <img src="https://whyy.org/wp-content/uploads/2017/07/japanese-artist-tomoteru-saito-of-japan-created-this-dinosaur-1-768x432.jpg" style="vertical-align:bottom" > 
