@@ -7,7 +7,11 @@
 
  <h3 align="center"> Introduction </h3>
 
-<p align="center"> For the blind and/or disabled obstructive objects make navigating potentially dangerous for simple, everyday travel. 
+<p align="center">
+ 
+ Video presentation to go along with markdown: https://youtu.be/iD6ckydxhuY 
+ 
+ For the blind and/or disabled obstructive objects make navigating potentially dangerous for simple, everyday travel. 
 
 Uneven pavements, cars on sidewalks, piled trash, downed trees, and other pedestrians create: unfair impediments to a fair and equal life, risk of bodily injury, and potentially dangerous situations where the disabled must travel into ongoing traffic. 
 
