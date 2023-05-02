@@ -86,21 +86,21 @@ Despite these challenges, we were able to get a very accurate model with 95% val
 
   1. No Obstacle (correct)
   
-   <img src="https://user-images.githubusercontent.com/122634321/235798661-b438eca3-e3da-42ae-bd70-6f92469bdc1a.jpg" width="250" height="250" > 
+   <img src="https://user-images.githubusercontent.com/122634321/235798661-b438eca3-e3da-42ae-bd70-6f92469bdc1a.jpg" width="400" height="250" > 
 
 
   2. No Obstacle (correct)
 
-   <img src="https://user-images.githubusercontent.com/122634321/235798663-2cadcb64-c6a8-4a51-a93c-8c459b90d3c2.jpg" width="250" height="250" > 
+   <img src="https://user-images.githubusercontent.com/122634321/235798663-2cadcb64-c6a8-4a51-a93c-8c459b90d3c2.jpg" width="400" height="250" > 
 
 
   3. Obstacle (correct)
   
-   <img src="https://user-images.githubusercontent.com/122634321/235798665-773a0ebd-46c6-407f-aa4c-8002965a6d85.jpg" width="250" height="250" > 
+   <img src="https://user-images.githubusercontent.com/122634321/235798665-773a0ebd-46c6-407f-aa4c-8002965a6d85.jpg" width="400" height="250" > 
 
   4. Obstacle (correct)
 
-   <img src="https://user-images.githubusercontent.com/122634321/235798669-69e3e881-7cad-4cd5-9ce7-d14cf9ae7cb1.jpg" width="250" height="250" > 
+   <img src="https://user-images.githubusercontent.com/122634321/235798669-69e3e881-7cad-4cd5-9ce7-d14cf9ae7cb1.jpg" width="400" height="250" > 
 
   
   5. No Obstacle (correct)
