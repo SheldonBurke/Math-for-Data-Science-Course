@@ -121,3 +121,11 @@ Overall 5 out of 5 correct. The model struggled at first to identify cracks on t
   
 </p>
 
+ <h3 align="center"> Next Steps </h3>
+
+<p align="center">
+ 
+ The next logical step is to  go beyond testing for whether a sidewalk has obstacles or not and train the model to identify what objects are on the sidewalk if any. 
+ 
+ The dataset will have to be expanded to this task, and a decision will have to be made on what objects to include on our tests (a sidewalk could hypothetically have anything on it).
+</p>
