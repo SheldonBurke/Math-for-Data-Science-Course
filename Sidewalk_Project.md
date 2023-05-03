@@ -95,7 +95,7 @@ Despite these challenges, we were able to get a very accurate model with 95% val
 
   1. No Obstacle (correct)
   
-   <mg style="display: block; margin: auto;" src="https://user-images.githubusercontent.com/122634321/235798661-b438eca3-e3da-42ae-bd70-6f92469bdc1a.jpg" width="350" height="250" > 
+   <img src="https://user-images.githubusercontent.com/122634321/235798661-b438eca3-e3da-42ae-bd70-6f92469bdc1a.jpg" width="350" height="250" > 
 
 
   2. No Obstacle (correct)
