@@ -71,7 +71,7 @@ The final step is to make a prediction based on classification in the previous s
   Code for Alexnet testing is avaliable on Google Colab:
   https://colab.research.google.com/drive/1qZrxkOmqGEP0WHDFaTQQh_mIMAS506yw#scrollTo=EwBsL__ySiKa
   
-  For Alexnet training, we gathered a dataset of 120 images. 100 for valid and 20 for training. Our dataset seemed straight forward in thought, but was actually difficult to curate. 
+For Alexnet training, we gathered a dataset of 120 images. 100 for valid and 20 for training. Our dataset seemed straight forward in thought, but was actually difficult to curate. 
 
 The images had to include common obstacles that may be on a sidewalk, which was easy to gather (fire hydrants, bicycles, cars, trash, and people). The dataset had to be vast, and all encompassing which was a bit difficult with only 120 images since you needed to be very broad--anything could be on a sidewalk.
 
@@ -92,31 +92,50 @@ Despite these challenges, we were able to get a very accurate model with 95% val
   
    To test Alexnet after training, we decided to use five images to test the accuracy of the model we created. 
   
-
-  1. No Obstacle (correct)
+  </p>
   
+  
+  <p align="center"> 
    <img src="https://user-images.githubusercontent.com/122634321/235798661-b438eca3-e3da-42ae-bd70-6f92469bdc1a.jpg" width="350" height="250" > 
-
-
-  2. No Obstacle (correct)
-
-   <img src="https://user-images.githubusercontent.com/122634321/235798663-2cadcb64-c6a8-4a51-a93c-8c459b90d3c2.jpg" width="400" height="250" > 
-
-
-  3. Obstacle (correct)
+  </p> 
   
+  <p align="center">
+  1. No Obstacle (correct)
+  </p>
+
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/122634321/235798663-2cadcb64-c6a8-4a51-a93c-8c459b90d3c2.jpg" width="400" height="250" > 
+  </p>
+  
+  <p align ="center">
+    2. No Obstacle (correct)
+   </p>
+   
+  <p align="center">
    <img src="https://user-images.githubusercontent.com/122634321/235798665-773a0ebd-46c6-407f-aa4c-8002965a6d85.jpg" width="400" height="250" > 
-
-  4. Obstacle (correct)
-
-   <img src="https://user-images.githubusercontent.com/122634321/235798669-69e3e881-7cad-4cd5-9ce7-d14cf9ae7cb1.jpg" width="400" height="250" > 
-
+  </p>
   
-  5. No Obstacle (correct)
-
+  <p align="center">
+  3. Obstacle (correct)
+  </p>
+  
+   <p align="center">
+   <img src="https://user-images.githubusercontent.com/122634321/235798669-69e3e881-7cad-4cd5-9ce7-d14cf9ae7cb1.jpg" width="400" height="250" > 
+  </p>
+   
+   <p align="center">
+    4. Obstacle (correct)
+   </p>
+  
+   <p align="center">
    <img src="https://user-images.githubusercontent.com/122634321/235798672-036a2cc0-0bc0-4a47-8453-fc40a1c20732.jpg" width="500" height="350" > 
-
-
+   </p>
+   
+   <p align="center">
+    5. No Obstacle (correct)
+    </p>
+   
+<p align="center"> 
 Overall 5 out of 5 correct. The model struggled at first to identify cracks on the pavement as obstacles but we were able to train the model with more weight on images of cracked sidewalks and it was able to accurately label those as obstacles. 
   
 </p>
