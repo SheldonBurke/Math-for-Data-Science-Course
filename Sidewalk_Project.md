@@ -23,10 +23,17 @@ Therefore there needs to be a solution where visually impaired, the disabled, go
 
  <h3 align="center"> Proposed Solution </h3>
  
- <p align="center"> To create a more equitable society, reduce risk to disabled pedestrians, and protect taxpayers from liability, we will analyze images to train a deep learning model--Alexnet to identify potential obstacles or hazards on sidewalks. </p>
+ <p align="center"> To create a more equitable society, reduce risk to disabled pedestrians, and protect taxpayers from liability, we will analyze images to train a deep learning model--Alexnet to identify potential obstacles or hazards on sidewalks.
+
+Since we are just beginning with the basics of project, our first test project will only test whether a sidewalk has obstacles or not.
+</p>
 
 
  <h3 align="center"> Dataset </h3>
+ 
+ For our dataset, we used some existing data from a user named Wu, Tang (has anyone hit a better name lottery than this?) and creative common images from Unsplash.com. 
+ 
+ Tang's dataset can be seen on their Google Drive here: https://drive.google.com/drive/u/0/folders/1ksOuWxXQS_mbWmhwq37hFj8lUqkpcrTn 
  
  <h6 align="center"> Sample of no obstruction dataset </h6>
   <p align="center">
