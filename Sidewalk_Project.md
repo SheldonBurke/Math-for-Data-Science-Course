@@ -10,7 +10,7 @@
 <p align="center">
  
  Video presentation to go along with markdown: https://youtu.be/iD6ckydxhuY 
- Slides for the presentation: https://tinyurl.com/3ksu4czp 
+ Slides for the presentation: https://www.canva.com/design/DAFfXIyejQA/2MGTScUm0a69k4ODsRkfMw/edit?utm_content=DAFfXIyejQA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
  
  For the blind and/or disabled obstructive objects make navigating potentially dangerous for simple, everyday travel. 
 
