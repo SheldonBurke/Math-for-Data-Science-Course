@@ -3,6 +3,8 @@
 
 <img src="https://platthillnursery.com/wp-content/uploads/2021/05/platt-hill-top-perennials-for-full-sun-blanket-flower.jpg" alt="Blanket Flowers, my favorite" > 
 
+Link to Google Colab: https://colab.research.google.com/drive/1mXxT5oiwGWUp2JKGqD1rYmtfA5RDo868#scrollTo=BsdI_Z1vM7VM 
+
  <h3 align="center"> Introduction </h3>
 
 <p align="center"> This is a project to use Alexnet for object recognition to accurately predict type of flower. Twenty five types of flowers are used in the dataset. Originally each flower had four images for validation and one image for testing. However, the accuracy was inadequate at those levels (only 78.8%) so for some flowers, more validation images and test images were needed. This was because of what I will dub the pansy problem. More on the pansy problem to come. </p>
@@ -112,10 +114,3 @@ Overall 4 out of 5 correct. Which matches the valid data. However, it does show 
   
  </center> 
 
-
-<p align "center"> 
-
-So after some tweaking of the code so that alexnet training only uses the highest percetange in valid instead of the percentage in the last epoch of training, we got a model that was more accurate. 
-
-After this tweak. We increased our model's accuracy. 
-</p>
