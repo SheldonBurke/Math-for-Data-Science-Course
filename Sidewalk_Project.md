@@ -59,7 +59,9 @@ AlexNet works by processing an input image through a series of convolutional and
  The first convolutional layer takes as input a color image of size 224x224x3 and applies 96 filters of size 11x11x3 to generate 96 feature maps. The second convolutional layer applies 256 filters of size 5x5x48 to the output of the first layer, generating 256 feature maps. The third, fourth, and fifth convolutional layers follow a similar pattern of applying filters to the previous layer's output.
 
 After the convolutional layers, the output is fed into three fully connected layers that perform classification. The first fully connected layer has 4,096 neurons, the second has 4,096 neurons, and the final output layer has 1,000 neurons.
-  </p>
+ 
+The final step is to make a prediction based on classification in the previous steps. 
+</p>
 
 
  <h3 align="center"> Test and Training  </h3>
