@@ -11,6 +11,8 @@
  
  Video presentation to go along with markdown: https://youtu.be/iD6ckydxhuY 
  Slides for the presentation: https://drive.google.com/file/d/1tJl3-BiiOIQhH7aF0yh09mdQd6qu4nSh/view?usp=sharing 
+ Code for Alexnet testing is avaliable on Google Colab:
+  https://colab.research.google.com/drive/1qZrxkOmqGEP0WHDFaTQQh_mIMAS506yw#scrollTo=EwBsL__ySiKa
  
  For the blind and/or disabled obstructive objects make navigating potentially dangerous for simple, everyday travel. 
 
@@ -69,8 +71,6 @@ The final step is to make a prediction based on classification in the previous s
 
 <p align="center"> 
   
-  Code for Alexnet testing is avaliable on Google Colab:
-  https://colab.research.google.com/drive/1qZrxkOmqGEP0WHDFaTQQh_mIMAS506yw#scrollTo=EwBsL__ySiKa
   
 For Alexnet training, we gathered a dataset of 120 images. 100 for valid and 20 for training. Our dataset seemed straight forward in thought, but was actually difficult to curate. 
 
