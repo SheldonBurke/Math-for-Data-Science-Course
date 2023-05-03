@@ -95,7 +95,7 @@ Despite these challenges, we were able to get a very accurate model with 95% val
 
   1. No Obstacle (correct)
   
-   <img src="https://user-images.githubusercontent.com/122634321/235798661-b438eca3-e3da-42ae-bd70-6f92469bdc1a.jpg" width="350" height="250" > 
+   <mg style="display: block; margin: auto;" src="https://user-images.githubusercontent.com/122634321/235798661-b438eca3-e3da-42ae-bd70-6f92469bdc1a.jpg" width="350" height="250" > 
 
 
   2. No Obstacle (correct)
@@ -128,4 +128,5 @@ Overall 5 out of 5 correct. The model struggled at first to identify cracks on t
  The next logical step is to  go beyond testing for whether a sidewalk has obstacles or not and train the model to identify what objects are on the sidewalk if any. 
  
  The dataset will have to be expanded to this task, and a decision will have to be made on what objects to include on our tests (a sidewalk could hypothetically have anything on it).
+ 
 </p>
